@@ -1,6 +1,6 @@
 "use strict"
 
-const list = ['latte','uova','birra','carne','pomodori'];
+const list = ['latte','uova','birra','carne','acciughe','dentifricio'];
 const ul = document.getElementById('list');
 let i = 0;
 
