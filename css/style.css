@@ -19,6 +19,7 @@ body{
     align-items: center;
     height: 50rem;
     font-family: 'Climate Crisis', sans-serif;
+    background-color: pink;
 }
 
 #header-list{
@@ -45,8 +46,13 @@ body{
     padding: .625rem;
 }
 
+.card:hover{
+    transform: scale(1.2);
+}
+
 li:hover{
     color: red;
     font-size: 1.875rem;
     cursor: pointer;
 }
+
