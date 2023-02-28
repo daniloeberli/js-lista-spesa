@@ -9,4 +9,4 @@ while(i < list.length){
     listItem.append(list[i]);
     ul.append(listItem);
     i++;
-}
+} 
